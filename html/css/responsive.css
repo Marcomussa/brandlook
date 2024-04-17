@@ -13731,6 +13731,9 @@
   }
 }
 @media (max-width: 767px) {
+  header .navbar-brand img {
+    max-height: 50px !important;
+  }
   .sm-p-5px {
     padding: 5px !important;
   }
